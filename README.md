@@ -38,9 +38,21 @@
 
 ---
 
-## 📫 Contact Me
-- LinkedIn: www.linkedin.com/in/pranay-kumar-devops
-- Email: pranaykumar.surarapu@outlook.com
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/pranay-kumar-devops)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:pranaysurarapu@gmail.com)
 
-  💻 Tech Stack:
-GitHub Apache Maven SonarQube Terraform AWS Git GitHub Jenkins Docker Bash Script Prometheus Grafana Apache Tomcat Kubernetes Python
+💻 Tech Stack:
+## 💻 Tech Stack:
+
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)

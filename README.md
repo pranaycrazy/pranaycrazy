@@ -20,24 +20,24 @@
 - CI/CD using Jenkins, Docker, Kubernetes
 - Deployed on AWS EKS
 - Monitoring with Prometheus & Grafana  
-👉 https://github.com/yourusername/bookmyshow-project
+👉 https://github.com/pranaycrazy/Book-My-Show.git
 
 ---
 
 ### 🔹 Zomato CI/CD Pipeline
 - Jenkins + Terraform + Docker
 - SonarQube & OWASP integration  
-👉 https://github.com/yourusername/zomato-project
+👉 https://github.com/pranaycrazy/DevOps-Project-Zomato-Kastro.git
 
 ---
 
 ### 🔹 AWS 3-Tier Architecture
 - VPC, EC2, RDS, S3 setup
 - Secure and scalable deployment  
-👉 https://github.com/yourusername/aws-3tier
+👉 https://github.com/pranaycrazy/AWS-3-Tier-Architecture.git
 
 ---
 
 ## 📫 Contact Me
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: www.linkedin.com/in/pranay-kumar-devops
 - Email: pranaykumar.surarapu@outlook.com

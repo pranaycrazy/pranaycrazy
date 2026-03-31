@@ -1,48 +1,19 @@
-# Hi, I'm Pranay 👋
-
-🚀 DevOps Engineer Fresher  
-☁️ AWS | Docker | Kubernetes | Jenkins | Terraform  
+<h1 align="center">Hi 👋, I'm Pranay</h1>
+<h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | CI/CD | Cloud Automation</h3>
 
 ---
+## 🧠 About Me
 
-## 🔧 Skills
-- AWS (EC2, S3, RDS, VPC, IAM, EKS)
-- Docker & Kubernetes
-- Jenkins CI/CD Pipelines
-- Terraform (Infrastructure as Code)
-- Prometheus & Grafana Monitoring
+🚀 DevOps Engineer | AWS | Docker | Kubernetes | CI/CD  
 
----
+Passionate about cloud infrastructure, automation, and scalable deployments.  
+Experienced in building CI/CD pipelines, containerized applications, and monitoring systems.  
+Focused on delivering efficient, reliable, and secure solutions.  
 
-## 📂 Projects
-
-### 🔹 BookMyShow DevOps Pipeline
-- CI/CD using Jenkins, Docker, Kubernetes
-- Deployed on AWS EKS
-- Monitoring with Prometheus & Grafana  
-👉 https://github.com/pranaycrazy/Book-My-Show.git
-
----
-
-### 🔹 Zomato CI/CD Pipeline
-- Jenkins + Terraform + Docker
-- SonarQube & OWASP integration  
-👉 https://github.com/pranaycrazy/DevOps-Project-Zomato-Kastro.git
-
----
-
-### 🔹 AWS 3-Tier Architecture
-- VPC, EC2, RDS, S3 setup
-- Secure and scalable deployment  
-👉 https://github.com/pranaycrazy/AWS-3-Tier-Architecture.git
-
----
-
-🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/pranay-kumar-devops)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:pranaysurarapu@gmail.com)
 
-💻 Tech Stack:
 ## 💻 Tech Stack:
 
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)

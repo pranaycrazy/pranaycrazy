@@ -41,3 +41,6 @@
 ## 📫 Contact Me
 - LinkedIn: www.linkedin.com/in/pranay-kumar-devops
 - Email: pranaykumar.surarapu@outlook.com
+
+  💻 Tech Stack:
+GitHub Apache Maven SonarQube Terraform AWS Git GitHub Jenkins Docker Bash Script Prometheus Grafana Apache Tomcat Kubernetes Python
